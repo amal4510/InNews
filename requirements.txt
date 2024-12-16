@@ -1,3 +1,4 @@
+streamlit
 Pillow
 newspaper3k
 urllib3
